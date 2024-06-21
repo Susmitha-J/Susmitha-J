@@ -13,13 +13,12 @@ I'm a results-driven Java Developer with over 2 years of experience in designing
 - **Development**: Full-Stack Development, Microservices, Cloud Computing
 - **Languages**: Java, Python, SQL, C, Linux
 - **Frameworks & Tools**: Spring Boot, Angular, Hibernate, JUnit, Jenkins, Git, Maven, Kafka, AWS
-- **Hobbies**: [Personal interests or hobbies]
 
 ---
 
 ### 🌱 Currently Learning:
-- Distributed Systems Theory and Analysis
-- Data Mining
+- Kafka
+- Hadoop
 
 ---
 
