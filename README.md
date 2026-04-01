@@ -1,6 +1,6 @@
 # Hello, I'm Susmitha Jejigari! 👋
 
-🔧 **Java Developer | Full Stack Engineer | Open Source Enthusiast**
+🔧 **Java Developer | Backend Engineer | Open Source Enthusiast**
 
 ---
 
