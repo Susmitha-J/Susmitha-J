@@ -2,7 +2,7 @@
 
 ### Software Development Engineer | Backend Engineering | ML/AI Enthusiast
 
-I'm a **Software Development Engineer** with 2+ years of experience building scalable backend systems, REST APIs, microservices, and distributed applications.
+I'm a **Software Development Engineer** with 3+ years of experience building scalable backend systems, REST APIs, microservices, and distributed applications.
 
 I enjoy solving complex engineering problems and building reliable, scalable software using **Java, Spring Boot, Microservices, AWS, Kafka, and distributed systems**.
 
